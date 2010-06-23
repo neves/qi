@@ -1,0 +1,2419 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:gAcl="http://schemas.google.com/acl/2007" xmlns:sites="http://schemas.google.com/sites/2008" xmlns:gs="http://schemas.google.com/spreadsheets/2006" xmlns:dc="http://purl.org/dc/terms" xmlns:batch="http://schemas.google.com/gdata/batch" xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr="http://purl.org/syndication/thread/1.0">
+  <id>http://sites.google.com/feeds/content/qi64.com/ethus</id>
+  <updated>2010-06-02T14:30:12.485Z</updated>
+  <title>Content</title>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus"/>
+  <link rel="http://schemas.google.com/g/2005#post" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus"/>
+  <link rel="http://schemas.google.com/g/2005#batch" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/batch"/>
+  <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus?max-results=9876"/>
+  <generator version="1" uri="http://sites.google.com">Google Sites</generator>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>9876</openSearch:itemsPerPage>
+  <entry gd:etag="&quot;YDgpeyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/5386521882853023444</id>
+    <published>2010-04-25T16:02:45.839Z</published>
+    <updated>2010-06-02T14:29:53.358Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-06-02T14:29:53.358Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <category scheme="http://schemas.google.com/sites/2008#folder" term="Alimentação"/>
+    <title>casarao-da-xv.jpg</title>
+    <summary>Casarão da XV</summary>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/5386521882853023444"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/portifolio/marcas/casarao-da-xv.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/5386521882853023444"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/5386521882853023444"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/5386521882853023444"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/5386521882853023444"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>4</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YDgpeyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/1509569913106403877</id>
+    <published>2010-05-03T19:49:00.785Z</published>
+    <updated>2010-05-31T22:24:33.671Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-31T22:24:33.669Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#announcement" label="announcement"/>
+    <title>Técnicas de Vendas - Doutor Camargo</title>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table cellspacing="0" class="sites-layout-name-two-column sites-layout-hbox">
+          <tbody>
+            <tr>
+              <td class="sites-layout-tile sites-tile-name-content-1">
+                <div dir="ltr">Curso Técnicas de Vendas<div>Cidade: Doutor Camargo - PR</div><div><br/></div></div>
+              </td>
+              <td class="sites-layout-tile sites-tile-name-content-2">
+                <div dir="ltr">Data: 11, 12, 13 e 14 de maio de 2010.<br/>Carga horária: 15 horas.</div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </content>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/3718493141923779728"/>
+    <link rel="alternate" type="text/html" href="http://sites.google.com/a/qi64.com/ethus/agenda/postagemsemtitulo"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/1509569913106403877"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/1509569913106403877"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/1509569913106403877"/>
+    <author>
+      <name>Raphael Mattosinho</name>
+      <email>mattosinho@ethus.com.br</email>
+    </author>
+    <sites:pageName>postagemsemtitulo</sites:pageName>
+    <sites:revision>4</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YDkpeyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/6025106054843374608</id>
+    <published>2010-04-23T22:30:52.258Z</published>
+    <updated>2010-05-24T20:11:44.816Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-24T20:10:25.103Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#listpage" label="listpage"/>
+    <title>sites</title>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox">
+          <tbody>
+            <tr>
+              <td class="sites-layout-tile sites-tile-name-content-1">
+                <div dir="ltr">Alguns sites criados.<br/></div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </content>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/6277900626330735427"/>
+    <link rel="alternate" type="text/html" href="http://sites.google.com/a/qi64.com/ethus/servicos/sites"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/6025106054843374608"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/6025106054843374608"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/6025106054843374608"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <gs:worksheet name="sites"/>
+    <gs:header row="1"/>
+    <gs:data startRow="2">
+      <gs:column index="A" name="categoria"/>
+      <gs:column index="B" name="empresa"/>
+      <gs:column index="C" name="site"/>
+      <gs:column index="D" name="online"/>
+      <gs:column index="E" name="data"/>
+    </gs:data>
+    <gd:feedLink href="http://sites.google.com/feeds/content/qi64.com/ethus?parent=6025106054843374608"/>
+    <sites:pageName>sites</sites:pageName>
+    <sites:revision>5</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD4peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/6277900626330735427</id>
+    <published>2010-04-18T18:23:48.621Z</published>
+    <updated>2010-05-24T20:11:25.015Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-04-30T23:42:05.495Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#webpage" label="webpage"/>
+    <title>Serviços</title>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox">
+          <tbody>
+            <tr>
+              <td class="sites-layout-tile sites-tile-name-content-1 sites-layout-empty-tile">
+                <div dir="ltr">
+                  <br/>
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </content>
+    <link rel="alternate" type="text/html" href="http://sites.google.com/a/qi64.com/ethus/servicos"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/6277900626330735427"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/6277900626330735427"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/6277900626330735427"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:pageName>servicos</sites:pageName>
+    <sites:revision>2</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD8peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/1129527860504360923</id>
+    <published>2010-05-24T20:07:30.347Z</published>
+    <updated>2010-05-24T20:10:51.527Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-24T20:10:51.527Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#listitem" label="listitem"/>
+    <title/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/6025106054843374608"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/1129527860504360923"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/1129527860504360923"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/1129527860504360923"/>
+    <author>
+      <name>Helio Castro</name>
+      <email>skyhrc@gmail.com</email>
+    </author>
+    <sites:revision>3</sites:revision>
+    <gs:field index="A" name="categoria">clinica</gs:field>
+    <gs:field index="B" name="empresa">Orto Mais Protese Dentária</gs:field>
+    <gs:field index="C" name="site">&lt;a xmlns="http://www.w3.org/1999/xhtml" href="http://www.ortomaisprotesedentaria.com.br/"&gt;http://www.ortomaisprotesedentaria.com.br/&lt;/a&gt;</gs:field>
+    <gs:field index="D" name="online">on</gs:field>
+    <gs:field index="E" name="data">2010-05-24</gs:field>
+  </entry>
+  <entry gd:etag="&quot;YD8peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/4061271124567991323</id>
+    <published>2010-04-23T22:37:55.913Z</published>
+    <updated>2010-05-24T20:10:45.807Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-24T20:10:45.807Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#listitem" label="listitem"/>
+    <title/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/6025106054843374608"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/4061271124567991323"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/4061271124567991323"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/4061271124567991323"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>3</sites:revision>
+    <gs:field index="A" name="categoria">escritório</gs:field>
+    <gs:field index="B" name="empresa">Escritório Farroupilha</gs:field>
+    <gs:field index="C" name="site">&lt;a xmlns="http://www.w3.org/1999/xhtml" href="http://www.escritoriofarroupilha.com.br"&gt;http://www.escritoriofarroupilha.com.br&lt;/a&gt;</gs:field>
+    <gs:field index="D" name="online">on</gs:field>
+    <gs:field index="E" name="data">2009-10-01</gs:field>
+  </entry>
+  <entry gd:etag="&quot;YDspeyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/8060609668098585365</id>
+    <published>2010-05-03T15:52:06.111Z</published>
+    <updated>2010-05-24T20:05:59.299Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-24T20:05:59.298Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#listpage" label="listpage"/>
+    <title>Configurações do Site</title>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox">
+          <tbody>
+            <tr>
+              <td class="sites-layout-tile sites-tile-name-content-1 sites-layout-empty-tile">
+                <div dir="ltr">
+                  <br/>
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </content>
+    <link rel="alternate" type="text/html" href="http://sites.google.com/a/qi64.com/ethus/cfg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/8060609668098585365"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/8060609668098585365"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/8060609668098585365"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <gs:worksheet name="Configurações do Site"/>
+    <gs:header row="1"/>
+    <gs:data startRow="2">
+      <gs:column index="A" name="codigo"/>
+      <gs:column index="B" name="valor"/>
+    </gs:data>
+    <gd:feedLink href="http://sites.google.com/feeds/content/qi64.com/ethus?parent=8060609668098585365"/>
+    <sites:pageName>cfg</sites:pageName>
+    <sites:revision>7</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YDgpeyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/4557569007097896912</id>
+    <published>2010-05-03T15:56:06.212Z</published>
+    <updated>2010-05-24T20:05:42.429Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-24T20:05:42.429Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#listitem" label="listitem"/>
+    <title/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/8060609668098585365"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/4557569007097896912"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/4557569007097896912"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/4557569007097896912"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>4</sites:revision>
+    <gs:field index="A" name="codigo">busca_palavras_chave</gs:field>
+    <gs:field index="B" name="valor">Ethus, marketing, logotipos, Planejamento de marketing, Brending, Maringá, criação de marca, gestão de marcas, Guarapuava, sites </gs:field>
+  </entry>
+  <entry gd:etag="&quot;YDUpeyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/7588764866805598363</id>
+    <published>2010-04-18T18:14:18.860Z</published>
+    <updated>2010-05-24T14:02:09.948Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-24T14:02:09.947Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#webpage" label="webpage"/>
+    <title>Equipe</title>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div class="sites-layout-name-three-column-hf sites-layout-vbox">
+          <div class="sites-layout-tile sites-tile-name-header">
+            <div dir="ltr">
+              <img border="0" src="http://sites.google.com/a/qi64.com/ethus/_/rsrc/1271614599249/a-ethus/equipe/equipe.jpg"/>
+            </div>
+          </div>
+          <table cellspacing="0" class="sites-layout-hbox">
+            <tbody>
+              <tr>
+                <td class="sites-layout-tile sites-tile-name-content-1">
+                  <div dir="ltr">
+                    <div style="display:block;text-align:left">
+                      <a href="http://sites.google.com/a/qi64.com/ethus/a-ethus/equipe/helio.jpg?attredirects=0" imageanchor="1">
+                        <img border="0" src="http://sites.google.com/a/qi64.com/ethus/_/rsrc/1271614647680/a-ethus/equipe/helio.jpg"/>
+                      </a>
+                    </div>
+                    <p>Profissional na area de Tecnologia da Informação há mais de 10 anos tendo atuado desde a manutenção de Hardware ao Desenvolvimento de Software já atuou em empresas como GVT, AMBEV.<br/>Conhecimentos na area de Gestão da Qualidade e Tecnologias voltada para Web.<br/>Dinâmico e com facilitade de integração. Graduando em Gestão Financeira pelo Cesumar. Atualmente Diretor e responsável pela Ethus Soluções em Marketing em Guarapuava - Paraná.</p>
+                    <p>
+                      <br/>
+                    </p>
+                  </div>
+                </td>
+                <td class="sites-layout-tile sites-tile-name-content-2">
+                  <div dir="ltr">
+                    <div style="display:block;text-align:left">
+                      <a href="http://sites.google.com/a/qi64.com/ethus/a-ethus/equipe/raphael.jpg?attredirects=0" imageanchor="1">
+                        <img border="0" src="http://sites.google.com/a/qi64.com/ethus/_/rsrc/1271614671798/a-ethus/equipe/raphael.jpg"/>
+                      </a>
+                    </div>
+                    <p>Formado em Publicidade e Propaganda pelo Cesumar e pós-graduado em 
+Administração de Marketing e Propaganda pela UEL. Consultor e Instrutor 
+credenciado junto ao SEBRAE - PR desde 2005 nas áreas de Marketing, 
+Vendas e Empreendedorismo. Professor universitário (2005 &#8211; 2008). 
+Promotor de eventos, tais como Palestras com os Doutores Içami Tiba e 
+Augusto Cury.</p>
+                  </div>
+                </td>
+                <td class="sites-layout-tile sites-tile-name-content-3">
+                  <div dir="ltr">
+                    <div style="display:block;text-align:left">
+                      <a href="http://sites.google.com/a/qi64.com/ethus/a-ethus/equipe/ricardo.jpg?attredirects=0" imageanchor="1">
+                        <img border="0" src="http://sites.google.com/a/qi64.com/ethus/_/rsrc/1271788971369/a-ethus/equipe/ricardo.jpg"/>
+                      </a>
+                    </div>
+                    <p>Ricardo Augusto Guirado Formado em Administração pela Universidade Estadual de Maringá, com MBA Internacional em Gestão Empresarial pela Fundação Getúlio Vargas e Universidade da Califórnia &#8211; Irvine &#8211; USA e pós-graduado em Marketing pela Fundação Getúlio Vargas.</p>
+                  </div>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <div class="sites-layout-tile sites-tile-name-footer sites-layout-empty-tile">
+            <div dir="ltr">
+              <br/>
+            </div>
+          </div>
+        </div>
+      </div>
+    </content>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/4538407629370324782"/>
+    <link rel="alternate" type="text/html" href="http://sites.google.com/a/qi64.com/ethus/a-ethus/equipe"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/7588764866805598363"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/7588764866805598363"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/7588764866805598363"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:pageName>equipe</sites:pageName>
+    <sites:revision>9</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD0peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/4068602679783710805</id>
+    <published>2010-05-03T20:08:04.505Z</published>
+    <updated>2010-05-03T21:57:24.947Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T20:09:43.884Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#announcement" label="announcement"/>
+    <title>Divulgando minha empresa de forma eficaz - Maringá</title>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox">
+          <tbody>
+            <tr>
+              <td class="sites-layout-tile sites-tile-name-content-1">
+                <div dir="ltr">Curso Divulgando minha empresa de forma eficaz<div>Cidade: Maringá - PR</div><div>Data: 28, 29, 30 de junho e 1 de julho de 2010.</div><div>Carga horária: 12 horas</div></div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </content>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/3718493141923779728"/>
+    <link rel="alternate" type="text/html" href="http://sites.google.com/a/qi64.com/ethus/agenda/divulgandominhaempresadeformaeficaz-maringa"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/4068602679783710805"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/4068602679783710805"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/4068602679783710805"/>
+    <author>
+      <name>Raphael Mattosinho</name>
+      <email>mattosinho@ethus.com.br</email>
+    </author>
+    <sites:pageName>divulgandominhaempresadeformaeficaz-maringa</sites:pageName>
+    <sites:revision>1</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YDkpeyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/3718493141923779728</id>
+    <published>2010-04-18T18:31:17.633Z</published>
+    <updated>2010-05-03T21:55:42.167Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T21:55:42.165Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#announcementspage" label="announcementspage"/>
+    <title>Agenda</title>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox">
+          <tbody>
+            <tr>
+              <td class="sites-layout-tile sites-tile-name-content-1 sites-layout-empty-tile">
+                <div dir="ltr"/>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </content>
+    <link rel="alternate" type="text/html" href="http://sites.google.com/a/qi64.com/ethus/agenda"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/3718493141923779728"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/3718493141923779728"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/3718493141923779728"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <gd:feedLink href="http://sites.google.com/feeds/content/qi64.com/ethus?parent=3718493141923779728"/>
+    <sites:pageName>agenda</sites:pageName>
+    <sites:revision>5</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD8peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/1743941008097035959</id>
+    <published>2010-05-03T15:30:43.249Z</published>
+    <updated>2010-05-03T21:43:34.736Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:35:47.273Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#webpage" label="webpage"/>
+    <title>Fale Conosco</title>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox">
+          <tbody>
+            <tr>
+              <td class="sites-layout-tile sites-tile-name-content-1">
+                <div dir="ltr">Digite aqui suas informações de contato, como endereço completo, telefone e emails.<br/></div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </content>
+    <link rel="alternate" type="text/html" href="http://sites.google.com/a/qi64.com/ethus/contato"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/1743941008097035959"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/1743941008097035959"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/1743941008097035959"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:pageName>contato</sites:pageName>
+    <sites:revision>3</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD0peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/5468856923574083384</id>
+    <published>2010-05-03T21:32:42.914Z</published>
+    <updated>2010-05-03T21:32:42.927Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T21:32:42.914Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>fundorodape.png</title>
+    <summary/>
+    <content type="image/png" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/5468856923574083384"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2387923881192540349"/>
+    <link rel="alternate" type="image/png" href="http://sites.google.com/a/qi64.com/ethus/config/15aa35aa7d3e57ed.png"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/5468856923574083384"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/5468856923574083384"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/5468856923574083384"/>
+    <link rel="edit-media" type="image/png" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/5468856923574083384"/>
+    <author>
+      <name>Patrícia qi64</name>
+      <email>patricia@qi64.com</email>
+    </author>
+    <sites:revision>1</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;Xil7IGA9&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349</id>
+    <published>2010-04-25T15:43:56.081Z</published>
+    <updated>2010-05-03T20:11:42.985Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T20:11:42.983Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#filecabinet" label="filecabinet"/>
+    <title>Marcas</title>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox">
+          <tbody>
+            <tr>
+              <td class="sites-layout-tile sites-tile-name-content-1">
+                <div dir="ltr">Algumas marcas desenvolvidas para vários setores.</div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </content>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/4411087331677714371"/>
+    <link rel="alternate" type="text/html" href="http://sites.google.com/a/qi64.com/ethus/portifolio/marcas"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/2173586807886540349"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <gd:feedLink href="http://sites.google.com/feeds/content/qi64.com/ethus?parent=2173586807886540349"/>
+    <sites:pageName>marcas</sites:pageName>
+    <sites:revision>17</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD8peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/2179093057319889949</id>
+    <published>2010-04-18T18:26:18.980Z</published>
+    <updated>2010-05-03T20:10:58.807Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T20:10:58.805Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#webpage" label="webpage"/>
+    <title>Marketing</title>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox">
+          <tbody>
+            <tr>
+              <td class="sites-layout-tile sites-tile-name-content-1">
+                <div dir="ltr">
+                  <h3><a name="TOC-Auditoria-de-Marketing"/>Auditoria de Marketing</h3>
+                  <p>
+      Para as organizações que possuem estratégias de marketing 
+definidas, realizamos radiografias de mercados, de concorrentes, 
+principalmente uma avaliação do marketing da empresa, promovendo 
+correção de rumos e ajustes.
+  </p>
+                  <h3><a name="TOC-Endomarketing"/>Endomarketing</h3>
+                  <p>
+    Organização, padronização e diretrizes para a comunicação 
+institucional e de vendas com o corpo funcional, através do 
+desenvolvimento de campanhas visando o engajamento do público interno 
+aos planos e objetivos da empresa, além de elaboração de projetos 
+editoriais para veículos de comunicação interna.
+  </p>
+                  <h3><a name="TOC-Planejamento-estrat-gico-de-marketi"/>Planejamento estratégico de marketing</h3>
+                  <p>
+    É um diagnóstico claro da atuação do escritório, formatando um 
+conjunto de ações necessárias ao seu desenvolvimento, de como 
+implementá-las, com prazos e definições de responsáveis internos para a 
+garantia dessas implementações. Permite também, aos sócios uma visão 
+estratégica de como gerir o negócio.
+  </p>
+                  <h3><a name="TOC-Cria-o-e-organiza-o-de-promo-es"/>Criação e organização de promoções</h3>
+                  <p>
+    Visando atender à necessidades e expectativas do mercado, criamos e 
+executamos promoções de vendas personalizadas, sempre estimulando o 
+cliente a adentrar ao ponto de vendas e tomar contato com o produto em 
+questão. As promoções criadas pela Ethus normalmente buscam quebrar 
+paradigmas, surpreendendo e encantando os clientes.
+  </p>
+                  <h3><a name="TOC-Realiza-o-de-cliente-oculto"/>Realização de cliente oculto</h3>
+                  <p>
+    Cliente oculto é uma técnica utilizada para examinar elementos que 
+compõem o cenário das vendas, tais como ponto de venda, vitrine, 
+decoração da loja, atendimento do vendedor, higiene, asseio, fachada, 
+localização, cordialidade do vendedor, formas de pagamentos, etc.
+    A partir dessa análise é proposto um plano de ação com indicativos 
+que sugerem melhoria dos pontos negativos observados, bem como a 
+manutenção dos pontos positivos.</p>
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </content>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/6277900626330735427"/>
+    <link rel="alternate" type="text/html" href="http://sites.google.com/a/qi64.com/ethus/servicos/marketing"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/2179093057319889949"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2179093057319889949"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2179093057319889949"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:pageName>marketing</sites:pageName>
+    <sites:revision>3</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD4peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/3984304637851106849</id>
+    <published>2010-05-03T19:55:32.336Z</published>
+    <updated>2010-05-03T20:04:18.991Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T20:04:18.989Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#announcement" label="announcement"/>
+    <title>Técnicas de Vendas - Nova Esperança</title>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox">
+          <tbody>
+            <tr>
+              <td class="sites-layout-tile sites-tile-name-content-1">
+                <div dir="ltr">Curso Técnicas de Vendas<div>Cidade: Nova Esperança - PR</div><div>Data: 07, 08, 09 e 10 de juho de 2010.</div><div>Carga horária: 15 horas</div></div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </content>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/3718493141923779728"/>
+    <link rel="alternate" type="text/html" href="http://sites.google.com/a/qi64.com/ethus/agenda/tecnicasdevendas-novaesperanca"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/3984304637851106849"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/3984304637851106849"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/3984304637851106849"/>
+    <author>
+      <name>Raphael Mattosinho</name>
+      <email>mattosinho@ethus.com.br</email>
+    </author>
+    <sites:pageName>tecnicasdevendas-novaesperanca</sites:pageName>
+    <sites:revision>2</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD0peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/2597026721597510644</id>
+    <published>2010-05-03T19:53:51.960Z</published>
+    <updated>2010-05-03T19:55:13.587Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T19:55:13.574Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#announcement" label="announcement"/>
+    <title>Oficina SEBRAE - Como lançar um novo negócio no mercado</title>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox">
+          <tbody>
+            <tr>
+              <td class="sites-layout-tile sites-tile-name-content-1">
+                <div dir="ltr">Oficina Como lançar um novo negócio no mercado.<div>Cidade: Maringá - PR</div><div>Data: 02 de junho de 2010.</div></div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </content>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/3718493141923779728"/>
+    <link rel="alternate" type="text/html" href="http://sites.google.com/a/qi64.com/ethus/agenda/oficinasebrae-comolancarumnovonegocionomercado"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/2597026721597510644"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2597026721597510644"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2597026721597510644"/>
+    <author>
+      <name>Raphael Mattosinho</name>
+      <email>mattosinho@ethus.com.br</email>
+    </author>
+    <sites:pageName>oficinasebrae-comolancarumnovonegocionomercado</sites:pageName>
+    <sites:revision>1</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD0peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/3493875262132686538</id>
+    <published>2010-05-03T19:52:03.836Z</published>
+    <updated>2010-05-03T19:53:00.306Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T19:53:00.285Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#announcement" label="announcement"/>
+    <title>Técnicas de Vendas - Umuarama</title>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox">
+          <tbody>
+            <tr>
+              <td class="sites-layout-tile sites-tile-name-content-1">
+                <div dir="ltr">Curso Técnicas de Vendas<div>Cidade: Umuarama - PR</div><div>Data: 17, 18 e 19 de maio de 2010.</div><div>Carga horária: 15 horas</div></div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </content>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/3718493141923779728"/>
+    <link rel="alternate" type="text/html" href="http://sites.google.com/a/qi64.com/ethus/agenda/tecnicasdevendas-umuarama"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/3493875262132686538"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/3493875262132686538"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/3493875262132686538"/>
+    <author>
+      <name>Raphael Mattosinho</name>
+      <email>mattosinho@ethus.com.br</email>
+    </author>
+    <sites:pageName>tecnicasdevendas-umuarama</sites:pageName>
+    <sites:revision>1</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD0peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/9182282350517652204</id>
+    <published>2010-05-03T18:01:54.696Z</published>
+    <updated>2010-05-03T18:01:54.696Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T18:01:54.696Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#listitem" label="listitem"/>
+    <title/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/8060609668098585365"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/9182282350517652204"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/9182282350517652204"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/9182282350517652204"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>1</sites:revision>
+    <gs:field index="A" name="codigo">busca_descricao</gs:field>
+    <gs:field index="B" name="valor">Descrição do Site para aparecer nos resultados de busca do google</gs:field>
+  </entry>
+  <entry gd:etag="&quot;YD4peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/4538407629370324782</id>
+    <published>2010-04-18T17:52:56.712Z</published>
+    <updated>2010-05-03T18:00:39.579Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T18:00:39.577Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#webpage" label="webpage"/>
+    <title>A Ethus</title>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox">
+          <tbody>
+            <tr>
+              <td class="sites-layout-tile sites-tile-name-content-1 sites-layout-empty-tile">
+                <div dir="ltr">
+                  <br/>
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </content>
+    <link rel="alternate" type="text/html" href="http://sites.google.com/a/qi64.com/ethus/a-ethus"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/4538407629370324782"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/4538407629370324782"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/4538407629370324782"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:pageName>a-ethus</sites:pageName>
+    <sites:revision>2</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD4peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/4411087331677714371</id>
+    <published>2010-04-18T18:36:46.440Z</published>
+    <updated>2010-05-03T17:21:03.616Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-04-30T23:40:51.341Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#webpage" label="webpage"/>
+    <title>Portifólio</title>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox">
+          <tbody>
+            <tr>
+              <td class="sites-layout-tile sites-tile-name-content-1 sites-layout-empty-tile">
+                <div dir="ltr">
+                  <br/>
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </content>
+    <link rel="alternate" type="text/html" href="http://sites.google.com/a/qi64.com/ethus/portifolio"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/4411087331677714371"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/4411087331677714371"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/4411087331677714371"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:pageName>portifolio</sites:pageName>
+    <sites:revision>2</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD4peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/1987403450778135275</id>
+    <published>2010-05-03T15:55:08.390Z</published>
+    <updated>2010-05-03T16:41:18.753Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T16:41:18.753Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#listitem" label="listitem"/>
+    <title/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/8060609668098585365"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/1987403450778135275"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/1987403450778135275"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/1987403450778135275"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>2</sites:revision>
+    <gs:field index="A" name="codigo">rodape</gs:field>
+    <gs:field index="B" name="valor">+55 44 3225-2104 / +55 42 9967-6050</gs:field>
+  </entry>
+  <entry gd:etag="&quot;YD0peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/8598580742317844156</id>
+    <published>2010-05-03T16:06:37.120Z</published>
+    <updated>2010-05-03T16:06:37.128Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T16:06:37.120Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>msn-off.png</title>
+    <summary/>
+    <content type="image/png" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/8598580742317844156"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/8060609668098585365"/>
+    <link rel="alternate" type="image/png" href="http://sites.google.com/a/qi64.com/ethus/cfg/msn-off.png"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/8598580742317844156"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/8598580742317844156"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/8598580742317844156"/>
+    <link rel="edit-media" type="image/png" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/8598580742317844156"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>1</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD0peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/3390764879981825765</id>
+    <published>2010-05-03T16:06:32.649Z</published>
+    <updated>2010-05-03T16:06:32.655Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T16:06:32.649Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>msn-on.png</title>
+    <summary/>
+    <content type="image/png" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/3390764879981825765"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/8060609668098585365"/>
+    <link rel="alternate" type="image/png" href="http://sites.google.com/a/qi64.com/ethus/cfg/msn-on.png"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/3390764879981825765"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/3390764879981825765"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/3390764879981825765"/>
+    <link rel="edit-media" type="image/png" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/3390764879981825765"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>1</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD0peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/1361866273578269199</id>
+    <published>2010-05-03T16:03:49.032Z</published>
+    <updated>2010-05-03T16:03:49.057Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T16:03:49.032Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>logo.png</title>
+    <summary/>
+    <content type="image/png" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/1361866273578269199"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/8060609668098585365"/>
+    <link rel="alternate" type="image/png" href="http://sites.google.com/a/qi64.com/ethus/cfg/logo.png"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/1361866273578269199"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/1361866273578269199"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/1361866273578269199"/>
+    <link rel="edit-media" type="image/png" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/1361866273578269199"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>1</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD0peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/3652555977049969909</id>
+    <published>2010-05-03T15:56:31.857Z</published>
+    <updated>2010-05-03T15:56:31.857Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:56:31.857Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#listitem" label="listitem"/>
+    <title/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/8060609668098585365"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/3652555977049969909"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/3652555977049969909"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/3652555977049969909"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>1</sites:revision>
+    <gs:field index="A" name="codigo">google_analytics</gs:field>
+    <gs:field index="B" name="valor">UA-183197-34</gs:field>
+  </entry>
+  <entry gd:etag="&quot;YD0peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/2847653893315409477</id>
+    <published>2010-05-03T15:54:54.636Z</published>
+    <updated>2010-05-03T15:54:54.636Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:54:54.636Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#listitem" label="listitem"/>
+    <title/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/8060609668098585365"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/2847653893315409477"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2847653893315409477"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2847653893315409477"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>1</sites:revision>
+    <gs:field index="A" name="codigo">titulo_site</gs:field>
+    <gs:field index="B" name="valor">Ethus - Soluções em Marketing</gs:field>
+  </entry>
+  <entry gd:etag="&quot;YD8peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/1231045621425870199</id>
+    <published>2010-04-25T16:57:33.776Z</published>
+    <updated>2010-05-03T15:38:58.833Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:38:58.806Z</app:edited>
+    <category scheme="http://schemas.google.com/sites/2008#folder" term="Outros"/>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>viva.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/1231045621425870199"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/portifolio/marcas/viva.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/1231045621425870199"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/1231045621425870199"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/1231045621425870199"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/1231045621425870199"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>3</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD8peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/9063604105493654498</id>
+    <published>2010-04-25T16:56:29.184Z</published>
+    <updated>2010-05-03T15:38:53.292Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:38:53.285Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <category scheme="http://schemas.google.com/sites/2008#folder" term="Moda"/>
+    <title>via-gloss.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/9063604105493654498"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/portifolio/marcas/via-gloss.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/9063604105493654498"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/9063604105493654498"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/9063604105493654498"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/9063604105493654498"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>3</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YDgpeyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/2963515321659610651</id>
+    <published>2010-04-25T16:57:28.243Z</published>
+    <updated>2010-05-03T15:38:45.482Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:38:45.472Z</app:edited>
+    <category scheme="http://schemas.google.com/sites/2008#folder" term="Outros"/>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>unicar.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/2963515321659610651"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/portifolio/marcas/unicar.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/2963515321659610651"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2963515321659610651"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2963515321659610651"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/2963515321659610651"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>4</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YDopeyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/4869670577285139215</id>
+    <published>2010-05-01T02:11:26.813Z</published>
+    <updated>2010-05-03T15:38:38.223Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:38:38.215Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <category scheme="http://schemas.google.com/sites/2008#folder" term="Construção"/>
+    <title>ufade.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/4869670577285139215"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/portifolio/marcas/ufade.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/4869670577285139215"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/4869670577285139215"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/4869670577285139215"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/4869670577285139215"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>6</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD8peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/2045838627582162174</id>
+    <published>2010-04-25T16:59:18.273Z</published>
+    <updated>2010-05-03T15:38:29.858Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:38:29.846Z</app:edited>
+    <category scheme="http://schemas.google.com/sites/2008#folder" term="Saúde"/>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>stag.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/2045838627582162174"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/portifolio/marcas/stag.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/2045838627582162174"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2045838627582162174"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2045838627582162174"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/2045838627582162174"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>3</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD8peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/535301396547561830</id>
+    <published>2010-04-25T16:59:13.378Z</published>
+    <updated>2010-05-03T15:38:21.688Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:38:21.674Z</app:edited>
+    <category scheme="http://schemas.google.com/sites/2008#folder" term="Saúde"/>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>sociedade-medica.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/535301396547561830"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/portifolio/marcas/sociedade-medica.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/535301396547561830"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/535301396547561830"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/535301396547561830"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/535301396547561830"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>3</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD8peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/5968200362061735559</id>
+    <published>2010-04-25T16:59:08.154Z</published>
+    <updated>2010-05-03T15:38:14.112Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:38:14.092Z</app:edited>
+    <category scheme="http://schemas.google.com/sites/2008#folder" term="Saúde"/>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>pro-vida.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/5968200362061735559"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/portifolio/marcas/pro-vida.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/5968200362061735559"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/5968200362061735559"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/5968200362061735559"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/5968200362061735559"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>3</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YDgpeyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/7986269849801112717</id>
+    <published>2010-04-25T16:57:05.976Z</published>
+    <updated>2010-05-03T15:38:06.339Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:38:06.332Z</app:edited>
+    <category scheme="http://schemas.google.com/sites/2008#folder" term="Outros"/>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>nusem-moveleiros.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/7986269849801112717"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/portifolio/marcas/nusem-moveleiros.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/7986269849801112717"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/7986269849801112717"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/7986269849801112717"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/7986269849801112717"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>4</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD8peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/3437051089283736177</id>
+    <published>2010-04-25T16:53:25.630Z</published>
+    <updated>2010-05-03T15:37:58.305Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:37:58.295Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <category scheme="http://schemas.google.com/sites/2008#folder" term="Alimentação"/>
+    <title>mr-chocolate.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/3437051089283736177"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/portifolio/marcas/mr-chocolate.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/3437051089283736177"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/3437051089283736177"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/3437051089283736177"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/3437051089283736177"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>3</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD8peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/4957298552650826816</id>
+    <published>2010-04-25T16:59:02.082Z</published>
+    <updated>2010-05-03T15:37:51.531Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:37:51.523Z</app:edited>
+    <category scheme="http://schemas.google.com/sites/2008#folder" term="Saúde"/>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>metrosaude.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/4957298552650826816"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/portifolio/marcas/metrosaude.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/4957298552650826816"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/4957298552650826816"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/4957298552650826816"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/4957298552650826816"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>3</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD8peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/3584281956518151982</id>
+    <published>2010-04-25T16:58:54.472Z</published>
+    <updated>2010-05-03T15:37:41.181Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:37:41.128Z</app:edited>
+    <category scheme="http://schemas.google.com/sites/2008#folder" term="Saúde"/>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>marcelo-pacheco.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/3584281956518151982"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/portifolio/marcas/marcelo-pacheco.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/3584281956518151982"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/3584281956518151982"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/3584281956518151982"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/3584281956518151982"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>3</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD8peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/6866019513080599291</id>
+    <published>2010-04-25T16:56:22.632Z</published>
+    <updated>2010-05-03T15:37:32.948Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:37:32.931Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <category scheme="http://schemas.google.com/sites/2008#folder" term="Moda"/>
+    <title>maga-lacerda.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/6866019513080599291"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/portifolio/marcas/maga-lacerda.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/6866019513080599291"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/6866019513080599291"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/6866019513080599291"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/6866019513080599291"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>3</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD8peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/3241481175658175162</id>
+    <published>2010-04-25T16:58:48.147Z</published>
+    <updated>2010-05-03T15:37:26.063Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:37:26.053Z</app:edited>
+    <category scheme="http://schemas.google.com/sites/2008#folder" term="Saúde"/>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>j-marion.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/3241481175658175162"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/portifolio/marcas/j-marion.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/3241481175658175162"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/3241481175658175162"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/3241481175658175162"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/3241481175658175162"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>3</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD8peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/249705716958171038</id>
+    <published>2010-04-25T16:56:59.359Z</published>
+    <updated>2010-05-03T15:37:16.581Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:37:16.574Z</app:edited>
+    <category scheme="http://schemas.google.com/sites/2008#folder" term="Outros"/>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>integrare.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/249705716958171038"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/portifolio/marcas/integrare.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/249705716958171038"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/249705716958171038"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/249705716958171038"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/249705716958171038"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>3</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD8peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/2699221254485996616</id>
+    <published>2010-04-25T16:55:34.250Z</published>
+    <updated>2010-05-03T15:37:08.384Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:37:08.375Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <category scheme="http://schemas.google.com/sites/2008#folder" term="Escritório"/>
+    <title>idea.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/2699221254485996616"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/portifolio/marcas/idea.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/2699221254485996616"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2699221254485996616"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2699221254485996616"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/2699221254485996616"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>3</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD8peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/2400942965637137817</id>
+    <published>2010-04-25T16:56:53.629Z</published>
+    <updated>2010-05-03T15:37:02.319Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:37:02.304Z</app:edited>
+    <category scheme="http://schemas.google.com/sites/2008#folder" term="Outros"/>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>homens-proposito.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/2400942965637137817"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/portifolio/marcas/homens-proposito.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/2400942965637137817"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2400942965637137817"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2400942965637137817"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/2400942965637137817"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>3</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD8peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/4944070530382664205</id>
+    <published>2010-04-25T16:56:47.671Z</published>
+    <updated>2010-05-03T15:36:54.415Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:36:54.406Z</app:edited>
+    <category scheme="http://schemas.google.com/sites/2008#folder" term="Outros"/>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>hangar.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/4944070530382664205"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/portifolio/marcas/hangar.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/4944070530382664205"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/4944070530382664205"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/4944070530382664205"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/4944070530382664205"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>3</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD8peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/6015019151563473366</id>
+    <published>2010-04-25T15:49:16.754Z</published>
+    <updated>2010-05-03T15:36:46.136Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:36:46.128Z</app:edited>
+    <category scheme="http://schemas.google.com/sites/2008#folder" term="Decoração"/>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>flora-floricultura.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/6015019151563473366"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/portifolio/marcas/flora-floricultura.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/6015019151563473366"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/6015019151563473366"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/6015019151563473366"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/6015019151563473366"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>3</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD8peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/8969089897582232227</id>
+    <published>2010-04-25T16:53:18.257Z</published>
+    <updated>2010-05-03T15:36:39.505Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:36:39.499Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <category scheme="http://schemas.google.com/sites/2008#folder" term="Alimentação"/>
+    <title>farinha-mineirinha.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/8969089897582232227"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/portifolio/marcas/farinha-mineirinha.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/8969089897582232227"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/8969089897582232227"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/8969089897582232227"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/8969089897582232227"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>3</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YDopeyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/2159384285888549252</id>
+    <published>2010-05-01T02:15:35.462Z</published>
+    <updated>2010-05-03T15:36:33.407Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:36:33.400Z</app:edited>
+    <category scheme="http://schemas.google.com/sites/2008#folder" term="Saúde"/>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>exitus-med.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/2159384285888549252"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/portifolio/marcas/exitus-med.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/2159384285888549252"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2159384285888549252"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2159384285888549252"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/2159384285888549252"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>6</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD8peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/784894926369229626</id>
+    <published>2010-04-25T16:56:16.300Z</published>
+    <updated>2010-05-03T15:36:26.000Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:36:25.989Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <category scheme="http://schemas.google.com/sites/2008#folder" term="Moda"/>
+    <title>encantos.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/784894926369229626"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/portifolio/marcas/encantos.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/784894926369229626"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/784894926369229626"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/784894926369229626"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/784894926369229626"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>3</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD8peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/2721840103711320681</id>
+    <published>2010-04-25T16:54:28.185Z</published>
+    <updated>2010-05-03T15:36:19.462Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:36:19.451Z</app:edited>
+    <category scheme="http://schemas.google.com/sites/2008#folder" term="Atacados"/>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>embalagens-dallalio.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/2721840103711320681"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/portifolio/marcas/embalagens-dallalio.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/2721840103711320681"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2721840103711320681"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2721840103711320681"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/2721840103711320681"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>3</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD8peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/7975101099619946005</id>
+    <published>2010-04-25T16:54:22.807Z</published>
+    <updated>2010-05-03T15:36:11.435Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:36:11.426Z</app:edited>
+    <category scheme="http://schemas.google.com/sites/2008#folder" term="Atacados"/>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>distribuidora-maringa.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/7975101099619946005"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/portifolio/marcas/distribuidora-maringa.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/7975101099619946005"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/7975101099619946005"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/7975101099619946005"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/7975101099619946005"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>3</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD8peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/3673938865706610815</id>
+    <published>2010-04-25T16:55:27.419Z</published>
+    <updated>2010-05-03T15:36:03.259Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:36:03.249Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <category scheme="http://schemas.google.com/sites/2008#folder" term="Escritório"/>
+    <title>dinamico.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/3673938865706610815"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/portifolio/marcas/dinamico.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/3673938865706610815"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/3673938865706610815"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/3673938865706610815"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/3673938865706610815"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>3</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD8peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/6679969077878734019</id>
+    <published>2010-04-25T16:58:31.979Z</published>
+    <updated>2010-05-03T15:35:56.251Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:35:56.245Z</app:edited>
+    <category scheme="http://schemas.google.com/sites/2008#folder" term="Saúde"/>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>dentariun.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/6679969077878734019"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/portifolio/marcas/dentariun.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/6679969077878734019"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/6679969077878734019"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/6679969077878734019"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/6679969077878734019"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>3</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD8peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/4887703101125158173</id>
+    <published>2010-04-25T16:55:21.858Z</published>
+    <updated>2010-05-03T15:35:46.571Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:35:46.564Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <category scheme="http://schemas.google.com/sites/2008#folder" term="Escritório"/>
+    <title>dacon.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/4887703101125158173"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/portifolio/marcas/dacon.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/4887703101125158173"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/4887703101125158173"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/4887703101125158173"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/4887703101125158173"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>3</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD8peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/2166822106727338575</id>
+    <published>2010-04-25T16:55:16.211Z</published>
+    <updated>2010-05-03T15:35:37.500Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:35:37.447Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <category scheme="http://schemas.google.com/sites/2008#folder" term="Escritório"/>
+    <title>corporativa.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/2166822106727338575"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/portifolio/marcas/corporativa.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/2166822106727338575"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2166822106727338575"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2166822106727338575"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/2166822106727338575"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>3</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD8peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/5021009164896479851</id>
+    <published>2010-04-25T16:55:09.504Z</published>
+    <updated>2010-05-03T15:35:28.807Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:35:28.801Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <category scheme="http://schemas.google.com/sites/2008#folder" term="Escritório"/>
+    <title>charrua.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/5021009164896479851"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/portifolio/marcas/charrua.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/5021009164896479851"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/5021009164896479851"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/5021009164896479851"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/5021009164896479851"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>3</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD8peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/8540029562635434300</id>
+    <published>2010-04-25T16:58:24.477Z</published>
+    <updated>2010-05-03T15:35:19.279Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:35:19.268Z</app:edited>
+    <category scheme="http://schemas.google.com/sites/2008#folder" term="Saúde"/>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>centro-medico-pulmao.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/8540029562635434300"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/portifolio/marcas/centro-medico-pulmao.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/8540029562635434300"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/8540029562635434300"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/8540029562635434300"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/8540029562635434300"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>3</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD8peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/5441672022991456891</id>
+    <published>2010-04-25T15:47:28.628Z</published>
+    <updated>2010-05-03T15:35:11.615Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:35:11.609Z</app:edited>
+    <category scheme="http://schemas.google.com/sites/2008#folder" term="Decoração"/>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>cenarium.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/5441672022991456891"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/portifolio/marcas/cenarium.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/5441672022991456891"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/5441672022991456891"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/5441672022991456891"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/5441672022991456891"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>3</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YDopeyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/8283954550971825888</id>
+    <published>2010-05-01T02:11:18.374Z</published>
+    <updated>2010-05-03T15:34:51.407Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:34:51.399Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <category scheme="http://schemas.google.com/sites/2008#folder" term="Construção"/>
+    <title>armazem.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/8283954550971825888"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/portifolio/marcas/armazem.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/8283954550971825888"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/8283954550971825888"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/8283954550971825888"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/8283954550971825888"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>6</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD8peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/2431403878608942274</id>
+    <published>2010-04-25T16:56:10.339Z</published>
+    <updated>2010-05-03T15:34:42.743Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:34:42.729Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <category scheme="http://schemas.google.com/sites/2008#folder" term="Moda"/>
+    <title>apolo.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/2431403878608942274"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/portifolio/marcas/apolo.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/2431403878608942274"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2431403878608942274"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2431403878608942274"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/2431403878608942274"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>3</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD8peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/5221582792091970155</id>
+    <published>2010-04-25T16:54:14.049Z</published>
+    <updated>2010-05-03T15:34:24.810Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:34:24.789Z</app:edited>
+    <category scheme="http://schemas.google.com/sites/2008#folder" term="Atacados"/>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>alegrando.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/5221582792091970155"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2173586807886540349"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/portifolio/marcas/alegrando.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/5221582792091970155"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/5221582792091970155"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/5221582792091970155"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/5221582792091970155"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>3</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD0peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/4504534863619097490</id>
+    <published>2010-05-03T15:27:22.576Z</published>
+    <updated>2010-05-03T15:27:22.576Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T15:27:22.576Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#listitem" label="listitem"/>
+    <title/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/6025106054843374608"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/4504534863619097490"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/4504534863619097490"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/4504534863619097490"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>1</sites:revision>
+    <gs:field index="A" name="categoria">escritório</gs:field>
+    <gs:field index="B" name="empresa">Gralha Azul</gs:field>
+    <gs:field index="C" name="site">&lt;a xmlns="http://www.w3.org/1999/xhtml" href="http://www.escritoriogralhaazul.com.br"&gt;http://www.escritoriogralhaazul.com.br&lt;/a&gt;</gs:field>
+    <gs:field index="D" name="online"/>
+    <gs:field index="E" name="data">2010-05-03</gs:field>
+  </entry>
+  <entry gd:etag="&quot;YDgpeyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/1004312942661762907</id>
+    <published>2010-04-18T17:53:33.465Z</published>
+    <updated>2010-05-03T06:15:09.790Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-03T06:15:09.788Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#webpage" label="webpage"/>
+    <title>Fundador</title>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox">
+          <tbody>
+            <tr>
+              <td class="sites-layout-tile sites-tile-name-content-1">
+                <div dir="ltr">
+                  <img border="0" src="http://sites.google.com/a/qi64.com/ethus/_/rsrc/1271613416458/a-ethus/fundador/foto-home.jpg" style="display:inline;float:left;margin:5px 10px 0pt 0pt"/>
+                  <p>
+Formado em Publicidade e Propaganda pelo Cesumar e pós-graduado em 
+Administração de Marketing e Propaganda pela UEL. Consultor e Instrutor 
+credenciado junto ao SEBRAE - PR desde 2005 nas áreas de Marketing, 
+Vendas e Empreendedorismo. Professor universitário (2005 &#8211; 2008). 
+Promotor de eventos, tais como Palestras com os Doutores Içami Tiba e 
+Augusto Cury.
+</p>
+                  <p>Mais de 1.500 horas de consultoria e 2.000 horas de treinamento para 
+micro e pequenas empresas no estado do Paraná. Desenvolveu mais de 40 
+marcas para empresas em início e em fase de reformulação. Palestrante na
+ Feira do Empreendedor em 2008 na cidade de Londrina &#8211; PR. Criador de 
+palestras, tais como: "To formado, e agora?!", "Preparando a empresa 
+para as vendas de final de ano" e "Como fidelizar clientes". Sócio 
+proprietário da Ethus Soluções em Marketing.</p>
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </content>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/4538407629370324782"/>
+    <link rel="alternate" type="text/html" href="http://sites.google.com/a/qi64.com/ethus/a-ethus/fundador"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/1004312942661762907"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/1004312942661762907"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/1004312942661762907"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:pageName>fundador</sites:pageName>
+    <sites:revision>4</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD0peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/6508191738028360266</id>
+    <published>2010-05-02T01:05:56.259Z</published>
+    <updated>2010-05-02T01:05:56.268Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-05-02T01:05:56.259Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>fundo-pg2.png</title>
+    <summary/>
+    <content type="image/png" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/6508191738028360266"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2387923881192540349"/>
+    <link rel="alternate" type="image/png" href="http://sites.google.com/a/qi64.com/ethus/config/e674ed67d1676a5.png"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/6508191738028360266"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/6508191738028360266"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/6508191738028360266"/>
+    <link rel="edit-media" type="image/png" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/6508191738028360266"/>
+    <author>
+      <name>Patrícia qi64</name>
+      <email>patricia@qi64.com</email>
+    </author>
+    <sites:revision>1</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD4peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/3513656697828876419</id>
+    <published>2010-04-18T18:28:20.578Z</published>
+    <updated>2010-04-30T23:42:24.246Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-04-30T23:42:24.245Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#webpage" label="webpage"/>
+    <title>Gestão de Marcas</title>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox">
+          <tbody>
+            <tr>
+              <td class="sites-layout-tile sites-tile-name-content-1">
+                <div dir="ltr">
+                  <h3><a name="TOC-Cria-o-do-nome-da-marca"/>Criação do nome da marca</h3>
+                  <p>
+    Muitas vezes, quando se pensa em abrir uma empresa, o empreendedor 
+encontra dificuldade em escolher um nome que seja criativo, diferente e 
+que ao mesmo tempo represente o tipo de negócio que pretende atuar. A 
+Ethus está preparada para atender a essas necessidades, utilizando de 
+metodologia própria, onde a satisfação do cliente está em primeiro 
+lugar.
+  </p>
+                  <h3><a name="TOC-Desenvolvimento-do-Logotipo"/>Desenvolvimento do Logotipo</h3>
+                  <p>
+    Uma vez definido o nome da marca, vem o próximo passo: como vou 
+representar essa marca junto ao mercado? Essa representação é feita 
+através de letras, cores e formas, que por sua vez devem construir uma 
+idéia na mente dos consumidores. Todos os logotipos criados pela Ethus 
+são minuciosamente elaborados combinando os elementos e sempre 
+justificando racional e emocionalmente cada elemento presente.
+  </p>
+                  <p>
+Muitas marcas são criadas sem levar em consideração o posicionamento da 
+empresa, prejudicando o sucesso, uma vez que cada marca transmite uma 
+informação que agirá tanto no consciente como no inconsciente das 
+pessoas. Uma marca pode, apenas com um olhar, transmitir impressão de 
+loja cara ou barata, de empresa pequena ou grande, de produtos nacionais
+ ou importados, simples ou sofisticados. Por isso aconselhamos que 
+sempre se busque o auxílio de um bom profissional para desenvolver sua 
+marca. Cuidado! Muitas vezes uma beleza aparente pode não lhe trazer o 
+sucesso desejado.
+  </p>
+                  <h3><a name="TOC-Cria-o-de-Manual-de-Identidade-Visu"/>Criação de Manual de Identidade Visual</h3>
+                  <p>
+    Após a criação da marca e do logotipo, criamos o Manual de 
+Identidade Visual, onde todos os elementos utilizados na criação da 
+marca aparecem com suas especificações técnicas. Este processo lhe 
+garante a fidelidade da marca nos diferentes processos de impressão e 
+produção. Dessa forma, se o proprietário da marca quiser, poderá exigir 
+qualidade máxima nos materiais produzidos e garantir que sua marca 
+esteja sempre íntegra quando figurar junto ao mercado.
+  </p>
+                  <h3><a name="TOC-Cria-o-de-papelaria"/>Criação de papelaria</h3>
+                  <p>
+    A papelaria é uma ferramenta utilizada para agregar valor às 
+empresas, demonstrando seriedade, organização e preocupação com a marca.
+ Os itens mais comuns que compõem a papelaria de uma empresa são: cartão
+ de visitas, papel timbrado, envelopes, pastas e papel para fax. 
+Existem, de acordo com os ramos de atividade, diferentes formatos e 
+demais itens de papelaria. Quando solicitados, criamos esses outros 
+materiais, sempre buscando a coerência com o posicionamento da empresa.
+  </p>
+                  <h3><a name="TOC-Cria-o-da-fachada-da-empresa"/>Criação da fachada da empresa</h3>
+                  <p>
+    A fachada de uma empresa é o grande chamariz para o ponto de venda, 
+uma espécie de cartão de apresentação, que pode fatalmente, filtrar a 
+entrada dos clientes no seu ponto de venda. Assim como no 
+desenvolvimento dos logotipos, as fachadas servem de parâmetro para 
+atrair ou não clientes. Elas sugerem ao cliente uma idéia de que estilo 
+tem a loja, que preços são aplicados nos produtos, que tipo de produtos 
+são vendidos, como será atendido o cliente que ali entrar, enfim, ela 
+gera expectativa nos consumidores. Muitos elementos utilizados nas 
+fachadas agem na esfera emocional, por isso deve se tomar um grande 
+cuidado em sua combinação, pois podem tornar-se atrativos ou não pelos 
+clientes.
+  </p>
+                  <h3><a name="TOC-Cria-o-de-uniformes"/>Criação de uniformes</h3>
+                  <p>
+    Dependendo do porte e do objetivo da empresa, o uniforme ocupa 
+grande espaço na construção de um conceito. Vendedores uniformizados 
+conferem organização, respeito ao cliente, seriedade e, sobretudo 
+preocupação em atender bem. Uniformes de bom gosto podem agregar valor 
+aos produtos e serviços apresentados ao mercado. Porém não basta que 
+esses uniformes sejam bonitos, eles devem ser funcionais para não 
+atrapalharem os vendedores nem parecer que estão sujos e amassados. 
+Colaboradores vestidos com uniformes mais despojados transmitem 
+informalidade na venda, já vendedores vestidos mais socialmente 
+transmitem distinção e respeito, formalizando mais a venda.
+  </p>
+                  <h3><a name="TOC-Cria-o-de-crach-s"/>Criação de crachás</h3>
+                  <p>
+    Além de transmitirem organização e comprometimento, os crachás 
+aproximam as pessoas, uma vem que o vendedor poderá ser chamado pelo 
+nome. Nas vendas externas e atendimentos domiciliares, o crachá serve 
+para fazer a ligação formal da pessoa física com a jurídica, ou seja, do
+ vendedor com a empresa que representa.
+  </p>
+                  <h3><a name="TOC-Composi-o-do-ponto-de-venda-com-foc"/>Composição do ponto de venda com foco mercadológico</h3>
+                  <p>
+    Como organizar a disposição dos móveis e produtos no interior da 
+loja? Aí está uma pergunta muito freqüente feita por pessoas que estão 
+iniciando um novo negócio ou reformando um ponto de venda já existente. 
+Todas as lojas possuem zonas de circulação de clientes fixas. Da mesma 
+forma deve-se sempre observar o comportamento real ou provável desses 
+clientes, uma vez que podemos levantar zonas quentes para a exposição de
+ produtos, gerando mais visibilidade de certos itens e da marca da 
+empresa. Também podemos criar um ambiente onde os clientes passem por 
+locais determinados estrategicamente, construindo uma rotina no 
+comportamento de compras, podendo estimular assim, compras por impulso, 
+por exemplo.
+  </p>
+                  <h3><a name="TOC-Acompanhamento-de-a-es-publicit-ria"/>Acompanhamento de ações publicitárias</h3>
+                  <p>
+    Partindo de uma análise fria da realidade, observamos que muitos 
+micro e pequenos empresários procuram empresas que produzem mídias para 
+criação de suas peças publicitárias, atraídos por preços convidativos ou
+ por permutas estabelecidas anteriormente. Visando atender a esse tipo 
+de cliente, a Ethus criou um serviço de avaliação da eficiência das 
+peças criadas, uma vez que o cliente não tem a obrigação de saber 
+avaliar esses materiais. Com isso o cliente consegue mais eficiência nas
+ ações desejadas. Leva-se em consideração, por exemplo, a qualidade do 
+texto, uso de cores, formatos, quantidade de informações, entre outros.
+  </p>
+                  <h3><a name="TOC-Padroniza-o-de-e-mails"/>Padronização de e-mails</h3>
+                  <p>
+    Nos dias de hoje a ferramenta de correio eletrônico é de fundamental
+ importância nas comunicações com o mercado e com fornecedores. Quando 
+falamos em padronização dos e-mails enviados estamos falando em destacar
+ sua mensagem das demais, agregando valores à sua empresa, tais como: 
+organização, estrutura, seriedade, compromisso e bom gosto. Essa 
+padronização serve como uma espécie de cartão de visitas anexada a 
+mensagem de e-mail.
+  </p>
+                  <h3><a name="TOC-Estudo-de-imagem-e-percep-o"/>Estudo de imagem e percepção</h3>
+                  <p>
+    Auditoria de opinião que procura entender e delinear a percepção que
+ os vários públicos (internos, clientes, prospects e formadores de 
+opinião) têm sobre a organização, suas áreas ou produtos e serviços.</p>
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </content>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/6277900626330735427"/>
+    <link rel="alternate" type="text/html" href="http://sites.google.com/a/qi64.com/ethus/servicos/gestao-de-marcas"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/3513656697828876419"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/3513656697828876419"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/3513656697828876419"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:pageName>gestao-de-marcas</sites:pageName>
+    <sites:revision>2</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD4peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/523062455393449441</id>
+    <published>2010-04-18T18:30:17.365Z</published>
+    <updated>2010-04-30T23:42:15.802Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-04-30T23:42:15.800Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#webpage" label="webpage"/>
+    <title>Educação Corporativa</title>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox">
+          <tbody>
+            <tr>
+              <td class="sites-layout-tile sites-tile-name-content-1">
+                <div dir="ltr">
+                  <h3><a name="TOC-Palestras"/>Palestras</h3>
+                  <p>
+    Fazemos palestras direcionadas sempre nas áreas de Marketing, Vendas
+ e Empreendedorismo. Com essas palestras procuramos oferecer aos 
+participantes condições de refletirem sobre suas atuais práticas de 
+mercado, tomando sempre o cuidado de não apresentar soluções prontas, 
+até porque, quando se trata de mercado, não existem receitas iguais, por
+ mais parecidas que possam ser. Nos propusemos a ministrar palestras por
+ acreditarmos nessa ferramenta de reflexão, que pode desencadear todo um
+ processo de mudanças de atitudes e comportamentos.
+  </p>
+                  <h3><a name="TOC-Treinamentos-indoor"/>Treinamentos indoor</h3>
+                  <p>
+    Aplicamos treinamentos gerenciais e funcionais (para colaboradores) 
+às empresas. Com equipe qualificada e preparada, utilizamos de 
+metodologia própria, propondo informação, teoria e, sobretudo, 
+convidando a pratica e vivência dos conteúdos ministrados.
+  </p>
+                  <p>
+	Esses treinamentos podem acontecer dentro da própria empresa (in 
+company) ou em formato de treinamento aberto, onde se propõe um tema e 
+as pessoas que tiverem interesses afins se inscrevem para participar. Os
+ treinamentos levam o nome de indoor por serem aplicados em ambientes 
+fechados.
+  </p>
+                  <h3><a name="TOC-Treinamentos-Outdoor"/>Treinamentos Outdoor</h3>
+                  <p>
+    Os treinamentos Outdoor são caracterizados por terem sua aplicação 
+em locais abertos, normalmente em contato direto com a natureza, 
+inclusive a utilizando como ferramenta didática.  A idéia é fazer com 
+que os participantes se integrem entre si e com a natureza, podendo 
+buscar indicadores de crescimento não apenas no facilitador, mas em 
+todos os elementos envolvidos (natureza, colegas de grupo, canções, 
+tarefas diárias, etc).
+  </p>
+                  <h3><a name="TOC-Organiza-o-de-eventos"/>Organização de eventos</h3>
+                  <p>
+    Juntamente com o cliente, pensamos o evento em todos os seus 
+aspectos: organização, custos, patrocínio, divulgação e execução. Dessa 
+forma espera-se que o cliente possa trabalhar dentro de um planejamento,
+ evitando gastos e stress desnecessários.</p>
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </content>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/6277900626330735427"/>
+    <link rel="alternate" type="text/html" href="http://sites.google.com/a/qi64.com/ethus/servicos/educacao-corporativa"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/523062455393449441"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/523062455393449441"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/523062455393449441"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:pageName>educacao-corporativa</sites:pageName>
+    <sites:revision>2</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD4peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/8989261231100980503</id>
+    <published>2010-04-18T18:37:55.828Z</published>
+    <updated>2010-04-30T23:41:56.006Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-04-30T23:41:56.004Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#webpage" label="webpage"/>
+    <title>Treinamentos</title>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox">
+          <tbody>
+            <tr>
+              <td class="sites-layout-tile sites-tile-name-content-1">
+                <div dir="ltr">
+                  <ul>
+                    <li>Marketing para profissionais da saúde.</li>
+                    <li>Como fidelizar meus clientes?!</li>
+                    <li>Construindo meu Império! Minha marca.</li>
+                    <li>Técnicas de vendas.</li>
+                  </ul>
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </content>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/4411087331677714371"/>
+    <link rel="alternate" type="text/html" href="http://sites.google.com/a/qi64.com/ethus/portifolio/treinamentos"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/8989261231100980503"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/8989261231100980503"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/8989261231100980503"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:pageName>treinamentos</sites:pageName>
+    <sites:revision>2</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD4peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/6680261931702264477</id>
+    <published>2010-04-18T18:37:05.635Z</published>
+    <updated>2010-04-30T23:41:47.318Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-04-30T23:41:47.317Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#webpage" label="webpage"/>
+    <title>Palestras</title>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox">
+          <tbody>
+            <tr>
+              <td class="sites-layout-tile sites-tile-name-content-1">
+                <div dir="ltr">
+                  <ul>
+                    <li>Tô formado, e agora?!</li>
+                    <li>Pacientes ou clientes?!</li>
+                    <li>Até que a morte nos separe!</li>
+                    <li>Paradigmas, o grande desafio das vendas.</li>
+                    <li>Enxergar pelos olhos dos clientes, o segredo!</li>
+                  </ul>
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </content>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/4411087331677714371"/>
+    <link rel="alternate" type="text/html" href="http://sites.google.com/a/qi64.com/ethus/portifolio/palestras"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/6680261931702264477"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/6680261931702264477"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/6680261931702264477"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:pageName>palestras</sites:pageName>
+    <sites:revision>2</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD4peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/1357496850998068108</id>
+    <published>2010-04-18T18:10:27.655Z</published>
+    <updated>2010-04-30T23:40:29.399Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-04-30T23:40:29.397Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#webpage" label="webpage"/>
+    <title>Nossa Proposta</title>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox">
+          <tbody>
+            <tr>
+              <td class="sites-layout-tile sites-tile-name-content-1">
+                <div dir="ltr">
+                  <p>Surgida no ano de 2004 na cidade de Maringá, no Paraná, a Ethus 
+Soluções em Marketing apresenta soluções realmente eficientes e práticas
+ à micro e pequenos empreendedores que acabavam montando suas empresas 
+com pouca
+técnica mercadológica. 
+	</p>
+                  <p>
+			Seu fundador, Raphael Mattosinho, publicitário, era sócio da Praaida,
+ uma agencia de publicidade e propaganda, porém, percebeu uma fatia de 
+mercado ainda não explorada, onde apenas grandes empresas tinham acesso a
+ essas tais técnicas mercadológicas. Após terminar sua especialização em
+ Administração em Marketing e Propaganda, decidiu formalizar a empresa, 
+dando o nome de Ethus, raiz da palavra Ética. 
+	</p>
+                  <p>
+			No princípio era difícil explicar onde se queria chegar, uma vez que 
+os serviços prestados agregavam diversas áreas de conhecimento e, a 
+princípio, não faziam muito sentido nas cabeças das pessoas. Com o 
+passar dos tempos Mattosinho conseguiu seu credenciamento junto ao 
+Sebrae do Paraná como consultor e instrutor nas áreas de marketing, 
+vendas e empreendedorismo. A partir daí as coisas começaram a fazer mais
+ sentido, reforçando a idéia inicial de abrir a empresa. 
+	</p>
+                  <p>
+			Atualmente o consultor atende a inúmeras cidades do Paraná com seus 
+serviços que sempre visam oferecer soluções realmente eficientes aos 
+clientes.
+Algumas das cidades atendidas:
+	</p>
+                  <p>
+			Maringá, Londrina, Cascavel, São Paulo, Campo Grande, Alto Paraná, 
+Santa Fé, Três Barras do Paraná, Quedas do Iguaçu, Apucarana, Jandaia do
+ Sul, Umuarama, Cruzeiro do Sul, Nova Esperança, Mamborê, Goioerê, Campo
+ Mourão, Paranavaí, Terra Boa, Loanda, Nova Londrina, Cianorte, entre 
+outras.
+	</p>
+                  <p>
+Atualmente a Ethus conta com mais de 1.500 horas de consultoria 
+prestadas a empresas, mais de 2.000 horas de treinamentos, 80 horas de 
+palestras e cerca de 40 marcas criadas num período de 6 anos para os 
+estados do Paraná, São Paulo e Mato Grosso.
+</p>
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </content>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/4538407629370324782"/>
+    <link rel="alternate" type="text/html" href="http://sites.google.com/a/qi64.com/ethus/a-ethus/nossa-proposta"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/1357496850998068108"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/1357496850998068108"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/1357496850998068108"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:pageName>nossa-proposta</sites:pageName>
+    <sites:revision>2</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD4peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/146489035810915085</id>
+    <published>2010-04-23T19:35:39.734Z</published>
+    <updated>2010-04-30T23:39:45.278Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-04-30T23:39:45.276Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#filecabinet" label="filecabinet"/>
+    <title>downloads</title>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox">
+          <tbody>
+            <tr>
+              <td class="sites-layout-tile sites-tile-name-content-1 sites-layout-empty-tile"/>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </content>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/4538407629370324782"/>
+    <link rel="alternate" type="text/html" href="http://sites.google.com/a/qi64.com/ethus/a-ethus/downloads"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/146489035810915085"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/146489035810915085"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/146489035810915085"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <gd:feedLink href="http://sites.google.com/feeds/content/qi64.com/ethus?parent=146489035810915085"/>
+    <sites:pageName>downloads</sites:pageName>
+    <sites:revision>2</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD4peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/3509484951408635386</id>
+    <published>2010-04-18T18:00:40.117Z</published>
+    <updated>2010-04-30T23:39:33.788Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-04-30T23:39:33.786Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#webpage" label="webpage"/>
+    <title>Empresa</title>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <table cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox">
+          <tbody>
+            <tr>
+              <td class="sites-layout-tile sites-tile-name-content-1">
+                <div dir="ltr">
+                  <h3><a name="TOC-Miss-o"/>Missão</h3>
+                  <p>
+	 Promover a continuidade e o crescimento lucrativo das organizações 
+através do Marketing.
+</p>
+                  <h3><a name="TOC-Vis-o"/>Visão</h3>
+                  <p>
+		Nos tornar a melhor <strong>solução de negócios para nossos clientes</strong>,
+		o trabalho mais gratificante para nossa equipe e o melhor investimento
+ para os sócios. </p>
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </content>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/4538407629370324782"/>
+    <link rel="alternate" type="text/html" href="http://sites.google.com/a/qi64.com/ethus/a-ethus/empresa"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/3509484951408635386"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/3509484951408635386"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/3509484951408635386"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:pageName>empresa</sites:pageName>
+    <sites:revision>2</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD4peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/7161072927663917142</id>
+    <published>2010-04-25T21:49:16.120Z</published>
+    <updated>2010-04-30T23:38:08.510Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-04-30T23:38:08.504Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>customLogo.gif</title>
+    <summary/>
+    <content type="image/png" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/7161072927663917142"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2387923881192540349"/>
+    <link rel="alternate" type="image/png" href="http://sites.google.com/a/qi64.com/ethus/config/customLogo.gif"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/7161072927663917142"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/7161072927663917142"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/7161072927663917142"/>
+    <link rel="edit-media" type="image/png" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/7161072927663917142"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>2</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD0peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/2386792994753956081</id>
+    <published>2010-04-30T23:16:54.917Z</published>
+    <updated>2010-04-30T23:16:54.925Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-04-30T23:16:54.917Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>fundo-pg2.png</title>
+    <summary/>
+    <content type="image/png" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/2386792994753956081"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2387923881192540349"/>
+    <link rel="alternate" type="image/png" href="http://sites.google.com/a/qi64.com/ethus/config/63b5c75d726d028d.png"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/2386792994753956081"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2386792994753956081"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2386792994753956081"/>
+    <link rel="edit-media" type="image/png" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/2386792994753956081"/>
+    <author>
+      <name>Patrícia qi64</name>
+      <email>patricia@qi64.com</email>
+    </author>
+    <sites:revision>1</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD0peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/6082969028925926414</id>
+    <published>2010-04-30T23:15:19.667Z</published>
+    <updated>2010-04-30T23:15:19.674Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-04-30T23:15:19.667Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>topo.png</title>
+    <summary/>
+    <content type="image/png" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/6082969028925926414"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/2387923881192540349"/>
+    <link rel="alternate" type="image/png" href="http://sites.google.com/a/qi64.com/ethus/config/7adc6cd7a4ca740d.png"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/6082969028925926414"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/6082969028925926414"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/6082969028925926414"/>
+    <link rel="edit-media" type="image/png" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/6082969028925926414"/>
+    <author>
+      <name>Patrícia qi64</name>
+      <email>patricia@qi64.com</email>
+    </author>
+    <sites:revision>1</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD0peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/5397344428797468772</id>
+    <published>2010-04-27T15:12:30.221Z</published>
+    <updated>2010-04-27T15:12:30.236Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-04-27T15:12:30.221Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>Willie Nelson - Shotgun Willie - 01 Shotgun Willie.mp3</title>
+    <summary/>
+    <content type="audio/mp3" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/5397344428797468772"/>
+    <link rel="alternate" type="audio/mp3" href="http://sites.google.com/a/qi64.com/ethus/WillieNelson-ShotgunWillie-01ShotgunWillie.mp3"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/5397344428797468772"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/5397344428797468772"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/5397344428797468772"/>
+    <link rel="edit-media" type="audio/mp3" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/5397344428797468772"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>1</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD0peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/3338329053860360418</id>
+    <published>2010-04-27T15:08:44.946Z</published>
+    <updated>2010-04-27T15:08:44.975Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-04-27T15:08:44.946Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>global.js</title>
+    <summary/>
+    <content type="application/x-javascript" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/3338329053860360418"/>
+    <link rel="alternate" type="application/x-javascript" href="http://sites.google.com/a/qi64.com/ethus/global.js"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/3338329053860360418"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/3338329053860360418"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/3338329053860360418"/>
+    <link rel="edit-media" type="application/x-javascript" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/3338329053860360418"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>1</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD0peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/5487943282041481305</id>
+    <published>2010-04-27T14:55:52.375Z</published>
+    <updated>2010-04-27T14:55:52.421Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-04-27T14:55:52.375Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>global.css</title>
+    <summary/>
+    <content type="text/css" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/5487943282041481305"/>
+    <link rel="alternate" type="text/css" href="http://sites.google.com/a/qi64.com/ethus/global.css"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/5487943282041481305"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/5487943282041481305"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/5487943282041481305"/>
+    <link rel="edit-media" type="text/css" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/5487943282041481305"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>1</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD0peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/5948574406548853259</id>
+    <published>2010-04-27T14:26:24.077Z</published>
+    <updated>2010-04-27T14:26:24.105Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-04-27T14:26:24.077Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>logo.png</title>
+    <summary/>
+    <content type="image/png" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/5948574406548853259"/>
+    <link rel="alternate" type="image/png" href="http://sites.google.com/a/qi64.com/ethus/logo.png"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/5948574406548853259"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/5948574406548853259"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/5948574406548853259"/>
+    <link rel="edit-media" type="image/png" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/5948574406548853259"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>1</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YDgpeyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/3686202327338339512</id>
+    <published>2010-04-26T05:03:44.269Z</published>
+    <updated>2010-04-26T12:01:39.772Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-04-26T12:01:39.772Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <category scheme="http://schemas.google.com/sites/2008#folder" term="ethus"/>
+    <title>logo.png</title>
+    <summary>Nossa Logomarca</summary>
+    <content type="image/png" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/3686202327338339512"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/146489035810915085"/>
+    <link rel="alternate" type="image/png" href="http://sites.google.com/a/qi64.com/ethus/a-ethus/downloads/logo.png"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/3686202327338339512"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/3686202327338339512"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/3686202327338339512"/>
+    <link rel="edit-media" type="image/png" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/3686202327338339512"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>4</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD0peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/5931894264642164042</id>
+    <published>2010-04-23T19:42:44.608Z</published>
+    <updated>2010-04-23T19:42:44.639Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-04-23T19:42:44.608Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>ThunderbirdPortable.rar</title>
+    <summary/>
+    <content type="application/x-rar-compressed" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/5931894264642164042"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/146489035810915085"/>
+    <link rel="alternate" type="application/x-rar-compressed" href="http://sites.google.com/a/qi64.com/ethus/a-ethus/downloads/ThunderbirdPortable.rar"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/5931894264642164042"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/5931894264642164042"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/5931894264642164042"/>
+    <link rel="edit-media" type="application/x-rar-compressed" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/5931894264642164042"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>1</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD4peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/7937287149751483754</id>
+    <published>2010-04-18T18:18:10.797Z</published>
+    <updated>2010-04-20T18:42:51.369Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-04-20T18:42:51.362Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>ricardo.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/7937287149751483754"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/7588764866805598363"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/a-ethus/equipe/ricardo.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/7937287149751483754"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/7937287149751483754"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/7937287149751483754"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/7937287149751483754"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>2</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD0peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/5834236670311451188</id>
+    <published>2010-04-18T18:17:51.788Z</published>
+    <updated>2010-04-18T18:17:51.798Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-04-18T18:17:51.788Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>raphael.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/5834236670311451188"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/7588764866805598363"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/a-ethus/equipe/raphael.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/5834236670311451188"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/5834236670311451188"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/5834236670311451188"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/5834236670311451188"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>1</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD0peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/3820816422737853079</id>
+    <published>2010-04-18T18:17:27.669Z</published>
+    <updated>2010-04-18T18:17:27.680Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-04-18T18:17:27.669Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>helio.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/3820816422737853079"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/7588764866805598363"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/a-ethus/equipe/helio.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/3820816422737853079"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/3820816422737853079"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/3820816422737853079"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/3820816422737853079"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>1</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD0peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/9163915180045782232</id>
+    <published>2010-04-18T18:16:39.237Z</published>
+    <updated>2010-04-18T18:16:39.249Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-04-18T18:16:39.237Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>equipe.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/9163915180045782232"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/7588764866805598363"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/a-ethus/equipe/equipe.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/9163915180045782232"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/9163915180045782232"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/9163915180045782232"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/9163915180045782232"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>1</sites:revision>
+  </entry>
+  <entry gd:etag="&quot;YD0peyA.&quot;">
+    <id>http://sites.google.com/feeds/content/qi64.com/ethus/4986585358591191717</id>
+    <published>2010-04-18T17:56:56.446Z</published>
+    <updated>2010-04-18T17:56:56.458Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2010-04-18T17:56:56.446Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#attachment" label="attachment"/>
+    <title>foto-home.jpg</title>
+    <summary/>
+    <content type="image/jpeg" src="http://2813646760880801302-a-qi64-com-s-sites.googlegroups.com/feeds/media/content/qi64.com/ethus/4986585358591191717"/>
+    <link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/1004312942661762907"/>
+    <link rel="alternate" type="image/jpeg" href="http://sites.google.com/a/qi64.com/ethus/a-ethus/fundador/foto-home.jpg"/>
+    <link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="http://sites.google.com/feeds/revision/qi64.com/ethus/4986585358591191717"/>
+    <link rel="self" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/4986585358591191717"/>
+    <link rel="edit" type="application/atom+xml" href="http://sites.google.com/feeds/content/qi64.com/ethus/4986585358591191717"/>
+    <link rel="edit-media" type="image/jpeg" href="http://sites.google.com/feeds/media/content/qi64.com/ethus/4986585358591191717"/>
+    <author>
+      <name>Marcos Neves</name>
+      <email>contato@qi64.com</email>
+    </author>
+    <sites:revision>1</sites:revision>
+  </entry>
+</feed>
