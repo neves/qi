@@ -14,6 +14,7 @@ class Qi_Gdata_Site
 
   public static $_singleton = null;
   public static $f5 = true; // SHIFT+F5 no firefox e chrome. CTRL+F5 no IE.
+  public static $utf8 = false;
 
   public $feed = "";
   public $url = "";
@@ -22,8 +23,9 @@ class Qi_Gdata_Site
   protected $sxml = null;
   protected $_cfg = null;
 
-  public function __construct($site = "adm", $domain = "qi64.com", $iso88591 = true)
+  public function __construct($site = "adm", $domain = "qi64.com", $iso88591 = null)
   {
+    $iso88591 = $iso88591 === null ? !self::$utf8 : $iso88591;
     $this->iso88591 = $iso88591;
     $this->feed = sprintf(self::FEED, $domain, $site);
     $this->url = sprintf(self::URL, $domain, $site);
@@ -31,11 +33,11 @@ class Qi_Gdata_Site
 
   // STATIC METHODS
 
-  public static function carregar($site = "adm", $domain = "qi64.com", $file = null)
+  public static function carregar($site = "adm", $domain = "qi64.com", $file = null, $iso88591 = null)
   {
     if (!$file) $file = "$site.$domain.xml";
     $class = get_called_class();
-    self::$_singleton = new $class($site, $domain);
+    self::$_singleton = new $class($site, $domain, $iso88591);
     if ( ! file_exists($file) || self::is_refresh() ):// force refresh
       self::singleton()->download($file);
     endif;
@@ -74,7 +76,8 @@ class Qi_Gdata_Site
   {
     $dom = new DOMDocument("1.0");
     $dom->preserveWhiteSpace = false;
-    $dom->load($this->feed."?max-results=9876");
+    $url = $this->feed."?max-results=9876&strict=true";
+    $dom->load($url);
     $dom->formatOutput = true;
     if ($this->iso88591) $dom->encoding = "iso-8859-1";
     $dom->save($file);
@@ -150,6 +153,11 @@ class Qi_Gdata_Site
 // HELPER FUNCTIONS
 
 function gsite_pagina($caminho = null)
+{
+  return gsite($caminho);
+}
+
+function gsite($caminho = null)
 {
   return Qi_Gdata_Site::static_pagina($caminho);
 }
