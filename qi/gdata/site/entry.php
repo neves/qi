@@ -19,12 +19,13 @@ class Qi_Gdata_Site_Entry implements IteratorAggregate, ArrayAccess
 
     $this->titulo = (string)$entry->title;
     // APENAS listitem NÃO POSSUI <link rel="alternate"... nem <title />
-    $this->conteudo = $entry->xpath_first("atom:link[@rel = 'alternate']/@href");
+    $this->conteudo = (string)$entry->xpath_first("atom:link[@rel = 'alternate']/@href");
     if ($this->conteudo):
       $this->caminho = str_replace($gsite->url, "", $this->conteudo);
       $this->id = strtr($this->caminho, array("/" => ":"));
       $_ = explode("/", $this->caminho); // Only variables should be passed by reference
-      $this->nome = end($_);
+      $this->nome = array_pop($_); // Only variables should be passed by reference
+      $this->caminho_pai = implode("/", $_);
     endif;
   }
 
@@ -41,6 +42,11 @@ class Qi_Gdata_Site_Entry implements IteratorAggregate, ArrayAccess
   public function itens()
   {
     return array();
+  }
+
+  public function items($arg = null)
+  {
+    return $this->itens($arg);
   }
 
   public function getIterator()
