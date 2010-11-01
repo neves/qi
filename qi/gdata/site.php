@@ -85,7 +85,7 @@ class Qi_Gdata_Site
 
   public function load_from_url($url = null)
   {
-    if ($url == null) $url = $this->feed."?max-results=9876";
+    if ($url == null) $url = $this->feed."?max-results=9876&strict=true";
     $this->sxml = Qi_Xml::load_file($url);
     $this->sxml->registerXPathNamespace('atom', 'http://www.w3.org/2005/Atom');
     $this->sxml->registerXPathNamespace('xhtml', 'http://www.w3.org/1999/xhtml');
