@@ -1,1 +1,67 @@
-Converter classes para utilizar namespaces
+A premissa anterior, era criar um framework para ser injetado em outros sistemas, facilitando a manutenção.
+
+PREMISSAS: (inspiração: http://silex-project.org/)
+
+MICRO-FRAMEWORK
+Não ser um framework full stack, mas sim um micro-framework
+qi => php
+sinatra => ruby
+CherryPy => Python
+
+ALWAYS LAZY
+Diferente do Ruby, Java e Python, o PHP não fica em memória,
+mas é iniciado e destruído a cada requisição.
+Por isso deve carregar apenas os arquivos essenciais para aquela determinada requisição,
+utilizando AutoLoad.
+Por exemplo, não conectar no banco nem carregar os models, se a requisição atual não precisar.
+
+WHY INTERFACES?
+PHP nunca precisou de Interfaces, apenas um protocolo documentado ja é suficiente.
+
+COMPONENTIZADO
+Cada parte do framework pode ser utilizada separadamente.
+Não força a utilização de ORM, Test ou Template.
+
+PHP IS AN EXCELENTE TEMPLATE ENGINE ALREADY
+Utiliza o proprio PHP como engine de template,
+mas possui uma interface que permite plugar outros template engines.
+
+NO LEGACY, FRAMEWORK FOR THE FUTURE
+Voltado para PHP 5.3 ou talvez 5.4, sem dar suporte a versões anteriores.
+
+DONT TRY TO BE SOMEONE ELSE
+Não criar Request, Response, Annotation, ou outros recursos que não sejam nativos.
+Acessar diretamente $_SERVER, $_REQUEST, etc.
+
+POPO (aka POJO)
+O controller nao precisa extender outra classe, o mesmo para o model.
+
+EXTERNAL WEB SERVICES
+Utilizar webservices para envio de email, imagem, upload, busca, assets, etc.
+
+PHAR
+Simples de utilizar, apenas 1 arquivo phar
+
+FORMS
+Utilizar gerador de forms do symfony
+
+PIPE FLOW INSTEAD OF TREE/DEEP
+O fluxo do processamento é sequencial, onde a saída de um é passada para outro.
+
+AUTOMATIC ROUTING
+Sistema de roteamento plugável, mas o padrão mapeia automático app/controller/action/id
+
+MOUTING APP
+Permite mapeamento facil de sub-aplicações, como blog, forum, admin, poll, etc.
+
+CONTEXT PROCESSORS
+Alguma maneira de registrar dados globais. Talvez com Traits
+
+USER
+Gerenciar o usuario logado ou anônimo, mas sempre existe um usuario,
+util para registrar informações que ficariam em cookie/session.
+
+SESSION
+Armazena no storage padrão, mas suportar storage plugáveis.
+
+
